@@ -409,7 +409,7 @@
 
 .mainNews .inner .news span::before {
     content: "";
-    top: 62%;
+    top: 66%;
     position: absolute;
     width: 255px;
     margin: 0 auto;
